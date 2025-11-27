@@ -109,16 +109,21 @@ Database & Logging (MongoDB + JSONL)
 
 ---
 
-## 📂 Repository Structure  
 
+## 📂 Repository Structure
+
+```
 toxicity-filter-kids/
 │
-├── frontend/ # React + Tailwind user interface
-├── backend/ # FastAPI server and model logic
-├── docs/ # Reports and architecture diagrams
-├── Procfile # Deployment configuration
+├── frontend/           # React + Tailwind user interface
+├── backend/            # FastAPI server and model logic
+├── docs/               # Reports and architecture diagrams
+├── Procfile            # Deployment configuration
 ├── .gitignore
 └── README.md
+```
+
+
 
 ---
 
