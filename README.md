@@ -4,6 +4,13 @@ A hybrid AI and ML-based moderation system that detects and filters harmful or o
 The project is designed to promote safe and positive online communication for children and family-friendly platforms.
 
 ---
+## 🌐 Live Demo  
+
+👉 **Website:** [https://gamyakomma-toxicity-filter.netlify.app](https://gamyakomma-toxicity-filter.netlify.app)  
+
+The live web app simulates real-world moderation for posts, messages, and admin logs — providing an interactive experience of how the AI-powered toxicity detection works in real time.  
+
+---
 
 ## 📘 Project Overview  
 
@@ -19,6 +26,18 @@ The system includes:
 The goal is to build a scalable, explainable, and child-safe content moderation framework suitable for modern digital environments.
 
 ---
+## 🖥️ Website Overview  
+
+The deployed application contains **three interactive pages**:  
+
+| Page | Description |
+|------|--------------|
+| 📝 **Posting Page** | A simulated “social media” interface where users can post comments. Toxic or harmful comments are instantly **blocked** and replaced with warning prompts. |
+| 💬 **Texting Page** | A live chat-style interface where toxic or unsafe **messages** are automatically filtered out in real time. Safe messages appear normally, while harmful ones are prevented from sending. |
+| 📊 **Admin Log Page** | Displays detailed **moderation logs** of blocked and reviewed content, including timestamps, user input, toxicity score, and AI classification status (Allow / Review / Block). |
+
+Each page demonstrates the AI system’s capabilities in different user contexts — making it suitable for moderation use cases across chat apps, learning platforms, and kid-safe communities.  
+
 
 ## 🧩 Key Features  
 
